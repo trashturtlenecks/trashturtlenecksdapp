@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0d271b042D217202276974E3CE2e223Fa390029c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0d271b042d217202276974e3ce2e223fa390029c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Trash Turtle Necks",
+  "SYMBOL": "TTN",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/trash-turtle-necks",
+  "SHOW_BACKGROUND": true
+}
